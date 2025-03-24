@@ -57,7 +57,7 @@
   main {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 1rem;
     justify-content: center;
     margin-top: 6%;
     align-items: center;
@@ -324,7 +324,7 @@ body {
       top: 0;
     }
     100% {
-      top: -220px;
+      top: -200px;
     }
   }
   
